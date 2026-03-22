@@ -21,7 +21,7 @@ where you left off!
 <img width="936" height="797" alt="french" src="https://github.com/user-attachments/assets/d05ebd5e-d1f0-42e7-8119-092371be0320" />
 t
 <img width="914" height="777" alt="english" src="https://github.com/user-attachments/assets/d3a3deb5-1b03-4357-a371-132ebbd45dfd" />
-here]
+
 🎮 How to Use
 
 Run the program
